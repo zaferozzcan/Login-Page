@@ -1,3 +1,25 @@
+# Login-Page
+This React App demonstrate how to creating a login flow, which can be a usecase when one is creating screens to show different components/screens depending on whether the user was logged in or if they were logged out.
+
+# Technologies:
+<li> HTML</li>
+<li>JavaScript </li>
+<li>React</li> 
+<li>CSS </li>
+<li>node modules</li>             
+<li>git</li>
+
+# Project Outcomes
+<ul>   
+  <h3> Understanding Templating vs.
+Layouts</h3>
+  <li> React Components</li>
+  <li>  React Conditional Rendering </li>
+  <li> Using Ternary Operator </li>
+</ul>
+
+![](Login11.png)
+![](Login22.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
